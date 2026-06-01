@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>Mimir.StaticServer</RootNamespace>
+    <RootNamespace>Fiesta.Webapp</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="LettuceEncrypt" Version="1.*" />

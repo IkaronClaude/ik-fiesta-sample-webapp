@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Fiesta.Webapp/Fiesta.Webapp.csproj" />
+  </Folder>
+</Solution>
