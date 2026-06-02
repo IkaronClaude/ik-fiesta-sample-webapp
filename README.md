@@ -9,7 +9,7 @@ host that also terminates TLS.
 It's deliberately a **starting point**, not a finished product: clone it, restyle
 it, or rip out `wwwroot/` and drop in your own React/Vue/Svelte build — the host
 serves whatever static files are there. Split out of
-[Project Mimir](https://github.com/IkaronClaude/ProjectMimir).
+[ik-fiesta-collab](https://github.com/IkaronClaude/ik-fiesta-collab).
 
 > Assembly/namespace: `Fiesta.Webapp` (`Fiesta.Webapp.dll`). Repo + image:
 > `ik-fiesta-sample-webapp`.
